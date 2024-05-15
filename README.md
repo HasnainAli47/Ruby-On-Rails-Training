@@ -1,5 +1,5 @@
 # Ruby-On-Rails-Training
-Certainly! Below is a structured outline for a GitHub repository dedicated to training Ruby on Rails (RoR). This outline is divided into two main sections: Ruby and Rails. Each section contains key topics organized under headings and subheadings.
+Below is a structured outline for training Ruby on Rails (RoR). This outline is divided into two main sections: Ruby and Rails. Each section contains key topics organized under headings and subheadings.
 
 ```markdown
 # Ruby on Rails Training Repository
