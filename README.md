@@ -8,7 +8,7 @@ Below is a structured outline for training Ruby on Rails (RoR). This outline is 
 Welcome to the Ruby on Rails Training Repository. This guide is designed to help you learn Ruby and Ruby on Rails from the ground up. Each section is organized with headings and subheadings to make the content easy to follow.
 
 ## Table of Contents
-1. Ruby
+# Ruby
    This following blog for ruby is written with the reference of Programming Ruby 3.3. [Programming Ruby 3.3 - 5th Edition](https://drive.google.com/drive/folders/15uK8SN2QWBYtq5LCo0473c6JHJCTlDgS)
    1. Getting started with Ruby
       * Installing Ruby
@@ -60,8 +60,7 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
          * Hook Methods
          * Metaprogramming Example (Do try some problems)
 
-
-2. Ruby on Rails
+# Ruby on Rails
   1. Getting Started
      1. [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
   2. Models
