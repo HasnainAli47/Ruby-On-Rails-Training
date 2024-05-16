@@ -62,17 +62,17 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
 
 # Ruby on Rails
   1. Getting Started
-     1. [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
+     * [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
   2. Models
-     1. [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-     2. [Active Record Migration](https://guides.rubyonrails.org/active_record_migrations.html)
-     3. [Active Record Validation](https://guides.rubyonrails.org/active_record_validations.html)
-     4. [Active Record Call Backs](https://guides.rubyonrails.org/active_record_callbacks.html)
-     5. [Active Record Associations](https://guides.rubyonrails.org/association_basics.html)
+     * [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+     * [Active Record Migration](https://guides.rubyonrails.org/active_record_migrations.html)
+     * [Active Record Validation](https://guides.rubyonrails.org/active_record_validations.html)
+     * [Active Record Call Backs](https://guides.rubyonrails.org/active_record_callbacks.html)
+     * [Active Record Associations](https://guides.rubyonrails.org/association_basics.html)
   3. Controllers
-     1. [Active Record Controllers](https://guides.rubyonrails.org/action_controller_overview.html)
+     * [Active Record Controllers](https://guides.rubyonrails.org/action_controller_overview.html)
   4. Views
-     1. [Layout and Views Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html)
+     * [Layout and Views Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html)
 # Project
    Make a project of your own choice having at least two tables with many to many relation.
 # Turbo
