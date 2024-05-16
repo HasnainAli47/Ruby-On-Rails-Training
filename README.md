@@ -45,20 +45,20 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
          * Conditional Execution, loops and Iterators
          * Pattern Matching
    10. New in Ruby
-      * Symbols
-      * Control Structures
-      * Blocks
-      * Command line Arguments
+         * Symbols
+         * Control Structures
+         * Blocks
+         * Command line Arguments
    11. Basic Input and Output
-      * Opening and Closing Files
-      * Reading and Writing Files
+         * Opening and Closing Files
+         * Reading and Writing Files
    12. MetaProgramming
-      * Defining Singleton Methods
-      * Inheritance and Visibility
-      * Class level Macros
-      * Instance_eval and class_eval
-      * Hook Methods
-      * Metaprogramming Example (Do try some problems)
+         * Defining Singleton Methods
+         * Inheritance and Visibility
+         * Class level Macros
+         * Instance_eval and class_eval
+         * Hook Methods
+         * Metaprogramming Example (Do try some problems)
 
 
 2. Ruby on Rails
