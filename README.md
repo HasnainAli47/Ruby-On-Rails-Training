@@ -18,7 +18,7 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
       * Strings
       * Ranges
    3. Classes, Objects and Variables
-      * Defininf Classes
+      * Defining Classes
       * Objects and Attributes
       * Classes working with other Classes
       * Access Control
@@ -75,6 +75,8 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
      * [Layout and Views Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html)
 # Project
    Make a project of your own choice having at least two tables with many to many relation.
+# GitFlow
+   [GitFlow that will be followed in our Organization](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=What%20is%20Gitflow%3F,lived%20branches%20and%20larger%20commits.)
 # Turbo
    * [Turbo official Documentation](https://turbo.hotwired.dev/handbook/introduction)
    * [Another Guide to Follow](https://www.hotrails.dev/turbo-rails/)
