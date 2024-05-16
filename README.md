@@ -23,7 +23,7 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
       * Classes working with other Classes
       * Access Control
       * Variables
-      * Reopening Classes (Money Patching)
+      * Reopening Classes (Monkey Patching)
    4. Collections, Blocks and Iterators
       * Arrays
       * Hashes
