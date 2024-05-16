@@ -9,7 +9,7 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
 
 ## Table of Contents
 1. Ruby
-   This following blog for ruby is written with the reference of Programming Ruby 3.3. Book is present at (https://drive.google.com/drive/folders/15uK8SN2QWBYtq5LCo0473c6JHJCTlDgS)
+   This following blog for ruby is written with the reference of Programming Ruby 3.3. Book is present at - [Programming Ruby 3.3 - 5th Edition](https://drive.google.com/drive/folders/15uK8SN2QWBYtq5LCo0473c6JHJCTlDgS)
    1. Getting started with Ruby
       * Installing Ruby
       * Creating Ruby Programs
