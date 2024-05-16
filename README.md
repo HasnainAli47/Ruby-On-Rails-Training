@@ -76,8 +76,8 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
 # Project
    Make a project of your own choice having at least two tables with many to many relation.
 # Turbo
-   [Turbo official Documentation](https://turbo.hotwired.dev/handbook/introduction)
-   [Another Guide to Follow](https://www.hotrails.dev/turbo-rails/)
+   * [Turbo official Documentation](https://turbo.hotwired.dev/handbook/introduction)
+   * [Another Guide to Follow](https://www.hotrails.dev/turbo-rails/)
 # Stimulus
    [Official Stimulus Guide](https://stimulus.hotwired.dev/)
 # Final Project
