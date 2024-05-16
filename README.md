@@ -89,8 +89,6 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
 - [Official Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
 - [Rails Guides](https://guides.rubyonrails.org/)
 - [RubyGems](https://rubygems.org/)
-- [Bundler](https://bundler.io/)
-- [RSpec](https://rspec.info/)
 ```
 
 This outline covers the essential topics for learning Ruby and Rails, and it provides links to useful resources for further reading. Each section is broken down into manageable subtopics to facilitate a step-by-step learning process.
