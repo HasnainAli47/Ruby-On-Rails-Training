@@ -34,12 +34,12 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
       * Defining Methods
       * Calling Methods
    6. Inheritance
-      * Inheritance and Messages
+            * Inheritance and Messages
    7. Modules
    8. Mixins
-      * Inheritance, Mixins and Design
+         * Inheritance, Mixins and Design
    9. Expressions
-      * Operator Expressions
+         * Operator Expressions
       * Command Expressions
       * Assignment
       * Conditional Execution, loops and Iterators
