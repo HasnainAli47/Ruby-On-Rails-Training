@@ -72,7 +72,16 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
   3. Controllers
      1. [Active Record Controllers](https://guides.rubyonrails.org/action_controller_overview.html)
   4. Views
-     1. [Layout and Views Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html) 
+     1. [Layout and Views Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html)
+# Project
+   Make a project of your own choice having at least two tables with many to many relation.
+# Turbo
+   [Turbo official Documentation](https://turbo.hotwired.dev/handbook/introduction)
+   [Another Guide to Follow](https://www.hotrails.dev/turbo-rails/)
+# Stimulus
+   [Official Stimulus Guide](https://stimulus.hotwired.dev/)
+# Final Project
+
     
   
 
