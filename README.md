@@ -62,6 +62,19 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
 
 
 2. Ruby on Rails
+  1. Getting Started
+     1. [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
+  2. Models
+     1. [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+     2. [Active Record Migration](https://guides.rubyonrails.org/active_record_migrations.html)
+     3. [Active Record Validation](https://guides.rubyonrails.org/active_record_validations.html)
+     4. [Active Record Call Backs](https://guides.rubyonrails.org/active_record_callbacks.html)
+     5. [Active Record Associations](https://guides.rubyonrails.org/association_basics.html)
+  3. Controllers
+     1. [Active Record Controllers](https://guides.rubyonrails.org/action_controller_overview.html)
+  4. Views
+     1. [Layout and Views Rendering](https://guides.rubyonrails.org/layouts_and_rendering.html) 
+    
   
 
 ## Links and Resources
@@ -69,8 +82,6 @@ Welcome to the Ruby on Rails Training Repository. This guide is designed to help
 - [Rails Guides](https://guides.rubyonrails.org/)
 - [RubyGems](https://rubygems.org/)
 - [Bundler](https://bundler.io/)
-- [Heroku](https://www.heroku.com/)
-- [Capistrano](https://capistranorb.com/)
 - [RSpec](https://rspec.info/)
 ```
 
